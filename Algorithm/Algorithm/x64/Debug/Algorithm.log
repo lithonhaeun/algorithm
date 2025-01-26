@@ -1,2 +1,2 @@
-﻿  2480.cpp
-  Algorithm.vcxproj -> C:\Users\litho\OneDrive\바탕 화면\algorithm\Algorithm\x64\Debug\Algorithm.exe
+﻿  2444.cpp
+C:\Users\litho\OneDrive\바탕 화면\algorithm\Algorithm\2444.cpp(16,9): error C2676: 이항 '-=': 'std::string'이(가) 이 연산자를 정의하지 않거나 미리 정의된 연산자에 허용되는 형식으로의 변환을 정의하지 않습니다.
