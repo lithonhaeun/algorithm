@@ -1,36 +1,37 @@
 #include <iostream>
-#include<algorithm>
-#include<vector>
+#include<string>
 using namespace std;
 
 int main() {
-	ios::sync_with_stdio(false);
-	cin.tie(NULL);
+	std::ios::sync_with_stdio(false);
+	std::cin.tie(NULL);
 
-	vector <int> arr(26,0);
-	string word;
+
+	int arr[26] = { 0 };
+	char word;
 	char maxword;
-	cin >> word;
-	
-	for(char c:word) {
-		word = toupper(c);
-		arr[c - 'A']++;
-	}
-	int max = *max_element(arr.begin(), arr.end());
-	int max_count = count(arr.begin(), arr.end(), max);
+	int max = 0;
 
-	if (max_count > 1) {
-		cout << "?";
+	while (cin >> word) {
+		word = toupper(word);
+		arr[word - 'A']++;
 	}
+	//count함수와
+	//max_element 함수 알아오기
+	for (int i = 0; i < 26; i++) {
 
-	else{
-		for (int i = 0; i < 26; i++) {
-			if (arr[i] == max)
-			{
-				maxword = i + 'A';
-				break;
-			}
+		if (max < arr[i])
+		{
+			max = arr[i];
+			maxword = i + 'A';
 		}
-		cout << maxword;
+
+		else if (max == arr[i])
+		{
+			maxword = '?';
+		}
+
 	}
+
+	cout << maxword;
 }
