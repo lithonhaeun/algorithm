@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\litho\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithm\\Algorithm\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2864524A-C638-450B-A3BE-3EE73B82A8C6}|Algorithm.vcxproj|C:\\Users\\litho\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithm\\Algorithm\\2839.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2864524A-C638-450B-A3BE-3EE73B82A8C6}|Algorithm.vcxproj|solutionrelative:2839.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2864524A-C638-450B-A3BE-3EE73B82A8C6}|Algorithm.vcxproj|C:\\Users\\litho\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithm\\Algorithm\\1436.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2864524A-C638-450B-A3BE-3EE73B82A8C6}|Algorithm.vcxproj|solutionrelative:1436.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2864524A-C638-450B-A3BE-3EE73B82A8C6}|Algorithm.vcxproj|C:\\Users\\litho\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithm\\Algorithm\\1018.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2864524A-C638-450B-A3BE-3EE73B82A8C6}|Algorithm.vcxproj|solutionrelative:1018.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -99,19 +107,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "2839.cpp",
+              "DocumentMoniker": "C:\\Users\\litho\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithm\\Algorithm\\2839.cpp",
+              "RelativeDocumentMoniker": "2839.cpp",
+              "ToolTip": "C:\\Users\\litho\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithm\\Algorithm\\2839.cpp",
+              "RelativeToolTip": "2839.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-27T10:53:41.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1436.cpp",
+              "DocumentMoniker": "C:\\Users\\litho\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithm\\Algorithm\\1436.cpp",
+              "RelativeDocumentMoniker": "1436.cpp",
+              "ToolTip": "C:\\Users\\litho\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithm\\Algorithm\\1436.cpp",
+              "RelativeToolTip": "1436.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-27T09:33:55.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "1018.cpp",
               "DocumentMoniker": "C:\\Users\\litho\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithm\\Algorithm\\1018.cpp",
               "RelativeDocumentMoniker": "1018.cpp",
               "ToolTip": "C:\\Users\\litho\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithm\\Algorithm\\1018.cpp",
               "RelativeToolTip": "1018.cpp",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAACAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAEEAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-19T08:34:31.589Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "19532.cpp",
               "DocumentMoniker": "C:\\Users\\litho\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithm\\Algorithm\\19532.cpp",
               "RelativeDocumentMoniker": "19532.cpp",
@@ -119,12 +153,11 @@
               "RelativeToolTip": "19532.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-19T07:04:51.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T07:04:51.748Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "2231.cpp",
               "DocumentMoniker": "C:\\Users\\litho\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithm\\Algorithm\\2231.cpp",
               "RelativeDocumentMoniker": "2231.cpp",
@@ -132,12 +165,11 @@
               "RelativeToolTip": "2231.cpp",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-18T13:06:09.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T13:06:09.183Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "24266.cpp",
               "DocumentMoniker": "C:\\Users\\litho\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithm\\Algorithm\\24266.cpp",
               "RelativeDocumentMoniker": "24266.cpp",
@@ -149,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "24265.cpp",
               "DocumentMoniker": "C:\\Users\\litho\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithm\\Algorithm\\24265.cpp",
               "RelativeDocumentMoniker": "24265.cpp",
@@ -161,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "24364.cpp",
               "DocumentMoniker": "C:\\Users\\litho\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithm\\Algorithm\\24364.cpp",
               "RelativeDocumentMoniker": "24364.cpp",
@@ -173,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "24263.cpp",
               "DocumentMoniker": "C:\\Users\\litho\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithm\\Algorithm\\24263.cpp",
               "RelativeDocumentMoniker": "24263.cpp",
@@ -185,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "24262.cpp",
               "DocumentMoniker": "C:\\Users\\litho\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithm\\Algorithm\\24262.cpp",
               "RelativeDocumentMoniker": "24262.cpp",
@@ -193,12 +225,11 @@
               "RelativeToolTip": "24262.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-16T11:10:15.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T11:10:15.425Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "2566.cpp",
               "DocumentMoniker": "C:\\Users\\litho\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithm\\Algorithm\\2566.cpp",
               "RelativeDocumentMoniker": "2566.cpp",
@@ -210,7 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "1152.cpp",
               "DocumentMoniker": "C:\\Users\\litho\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithm\\Algorithm\\1152.cpp",
               "RelativeDocumentMoniker": "1152.cpp",
@@ -222,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "1157.cpp",
               "DocumentMoniker": "C:\\Users\\litho\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithm\\Algorithm\\1157.cpp",
               "RelativeDocumentMoniker": "1157.cpp",
@@ -234,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "2563.cpp",
               "DocumentMoniker": "C:\\Users\\litho\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithm\\Algorithm\\2563.cpp",
               "RelativeDocumentMoniker": "2563.cpp",
@@ -246,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "1316.cpp",
               "DocumentMoniker": "C:\\Users\\litho\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithm\\Algorithm\\1316.cpp",
               "RelativeDocumentMoniker": "1316.cpp",
@@ -254,12 +285,11 @@
               "RelativeToolTip": "1316.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-10T11:37:53.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T11:37:53.544Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "2738.cpp",
               "DocumentMoniker": "C:\\Users\\litho\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithm\\Algorithm\\2738.cpp",
               "RelativeDocumentMoniker": "2738.cpp",
@@ -267,12 +297,11 @@
               "RelativeToolTip": "2738.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-10T12:36:27.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T12:36:27.519Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "2798.cpp",
               "DocumentMoniker": "C:\\Users\\litho\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithm\\Algorithm\\2798.cpp",
               "RelativeDocumentMoniker": "2798.cpp",
@@ -280,12 +309,11 @@
               "RelativeToolTip": "2798.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-18T11:02:35.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T11:02:35.339Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "24313.cpp",
               "DocumentMoniker": "C:\\Users\\litho\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithm\\Algorithm\\24313.cpp",
               "RelativeDocumentMoniker": "24313.cpp",
@@ -297,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "24267.cpp",
               "DocumentMoniker": "C:\\Users\\litho\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithm\\Algorithm\\24267.cpp",
               "RelativeDocumentMoniker": "24267.cpp",
@@ -309,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "10798.cpp",
               "DocumentMoniker": "C:\\Users\\litho\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithm\\Algorithm\\10798.cpp",
               "RelativeDocumentMoniker": "10798.cpp",
@@ -321,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "25206.cpp",
               "DocumentMoniker": "C:\\Users\\litho\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\algorithm\\Algorithm\\25206.cpp",
               "RelativeDocumentMoniker": "25206.cpp",
