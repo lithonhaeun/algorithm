@@ -32,7 +32,6 @@ int main() {
 		int min = gcd(A, B);
 		
 		cout << min;
-		long long lcm = (1LL * A * B) / min;  // 1LL·Î overflow ¹æÁö
-		cout << lcm << "\n";
+		long long lcm = (1LL * A * B) / min;  		cout << lcm << "\n";
 	}
 }
